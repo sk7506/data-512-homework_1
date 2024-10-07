@@ -12,7 +12,11 @@ The data are a specified subset of Wikipedia article pages in .csv format. Accor
 
 ## License of Source Data
 
-The dataset is constructed using data from the Wikimedia Foundation's Pageviews API, which is licensed under [Wikimedia Foundation Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en).
+The dataset is constructed using data from the Wikimedia Foundation's Pageviews API, which is licensed under the Creative Commons Attribution-Share Alike [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) which abides by the [Wikimedia Foundation Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en).
+
+### Brief Summary:
+
+The Wikimedia Foundation Terms of Use plays a role in this homework; primarily, in freely reading the article title data and printing parameters concerning these articles. While we are not editing or contributing to Wikipedia articles in any way, we are still bound to conditions of use, including responsibility, civility, and no harm. I chose an MIT license to follow the terms of use agreement to license freely any contributions (in this case, analyses and visualizations using Wikimedia data).
 
 ## License of Source Code
 
